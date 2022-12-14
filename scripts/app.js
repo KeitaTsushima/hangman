@@ -5,7 +5,7 @@ const chanceEl = document.getElementById('chance-el')
 const levelEl = document.getElementsByName('level')
 const gamesetting = [{
     words: 1,
-    life: 3
+    life: 5
 },
 {
     words: 2,
@@ -13,7 +13,7 @@ const gamesetting = [{
 },
 {
     words: 3,
-    life: 5
+    life: 3
 }]
 console.log(gamesetting)
 
